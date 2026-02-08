@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aakash
+- 👋 Hi, I’m Aakash Yadav
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning nest.js
 - 💞️ I’m looking to collaborate on Next.js
